@@ -39,6 +39,3 @@ This repository is released under the MIT License, allowing for free use, modifi
 *Note*
 
 This repository is for educational purposes only. Please respect the original websites and services by not using these clones for any unauthorized purposes.
-
-
-url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1rem' height='1rem' viewBox='0 0 14 14'%3E%3Cg fill='none'%3E%3Cg clip-path='url(%23primeTwitter0)'%3E%3Cpath fill='white' d='M11.025.656h2.147L8.482 6.03L14 13.344H9.68L6.294 8.909l-3.87 4.435H.275l5.016-5.75L0 .657h4.43L7.486 4.71zm-.755 11.4h1.19L3.78 1.877H2.504z'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='primeTwitter0'%3E%3Cpath fill='%23fff' d='M0 0h14v14H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/g%3E%3C/svg%3E")
