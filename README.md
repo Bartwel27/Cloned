@@ -1,4 +1,4 @@
-![xcorp](https://github.com/user-attachments/assets/cf8ea1e6-eba3-4a69-a6ca-e63759552386)
+
 # Cloned
 A collection of replicated sign-in pages from popular websites and services, built using HTML, CSS, and JavaScript.
 
@@ -39,3 +39,6 @@ This repository is released under the MIT License, allowing for free use, modifi
 *Note*
 
 This repository is for educational purposes only. Please respect the original websites and services by not using these clones for any unauthorized purposes.
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 14 14"><g fill="none"><g clip-path="url(#primeTwitter0)"><path fill="white" d="M11.025.656h2.147L8.482 6.03L14 13.344H9.68L6.294 8.909l-3.87 4.435H.275l5.016-5.75L0 .657h4.43L7.486 4.71zm-.755 11.4h1.19L3.78 1.877H2.504z"/></g><defs><clipPath id="primeTwitter0"><path fill="#fff" d="M0 0h14v14H0z"/></clipPath></defs></g></svg>
