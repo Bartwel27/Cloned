@@ -1,7 +1,4 @@
 # Cloned
-
-![Screenshot_20230629-11572](https://github.com/user-attachments/assets/13600655-b3a6-4598-9a8f-7cf5e3c9cc44)
-
 A collection of replicated sign-in pages from popular websites and services, built using HTML, CSS, and JavaScript.
 
 
@@ -17,7 +14,7 @@ This repository showcases a range of cloned sign-in pages, demonstrating how to 
 - *Educational Purpose*: This repository aims to educate and inspire web development learners, designers, and enthusiasts.
 
 *Included Pages*
-
+![Screenshot_20230629-11572](https://github.com/Bartwel27/Cloned/blob/10e78012f7fcd3f7058d7ee6e6664393f1acf3dc/Screenshot_20230629-11572.png)
 - Google Sign In
 - Facebook Login
 - Twitter Sign In
@@ -41,3 +38,4 @@ This repository is released under the MIT License, allowing for free use, modifi
 *Note*
 
 This repository is for educational purposes only. Please respect the original websites and services by not using these clones for any unauthorized purposes.
+
